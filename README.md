@@ -12,7 +12,7 @@ En este proyecto se predice mediante modelos de  aprendizaje automatico supervis
 
 ## ¿Qúe encontramos en cada archivo?
 
-En el archivo diamonds train encontraremos la limpieza del dataset de *"train.csv"* utilizado y el entrenamiento de cada uno de los modelos para conocer cuál se adapta mejor a la realidad.
+En el archivo diamonds train encontras la limpieza del dataset de *"train.csv"* utilizado y el entrenamiento de cada uno de los modelos para conocer cuál se adapta mejor a la realidad.
 Para entrenarlo utilizamos el test split con un 80% para entrenamiento y un 20% para el test
 Los modelos utilizados son:
 - RandomForest
@@ -22,7 +22,7 @@ Los modelos utilizados son:
 - DecisionTree
 - ExtraTrees
 ----------
-En la carpeta de test, hemos entrenado los modelos con mejores resultados  en el dataset completo de *"train.csv", y hemos completado con nuestras predicciones de precios del diamante el dataset *"predict.csv"
+En la carpeta de test, se ha nentrenado los modelos con mejores resultados  en el dataset completo de *"train.csv", y se ha completado, con las predicciones de precios del diamante, el dataset *"predict.csv"*
 
 <p align="center">
 <img width="523" alt="Captura de pantalla 2020-10-05 a las 22 38 52" src="https://user-images.githubusercontent.com/66179117/95129757-c1d03c00-075b-11eb-9de3-d6e46790a855.png">
