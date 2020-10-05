@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+predict.csv
+sample_submission.csv
+train.csv
+/outputs
+/inputs
+.DS_Store
+.ipynb_checkpoints
